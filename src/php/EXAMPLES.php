@@ -13,10 +13,10 @@ require_once('whatsprot.class.php');
  * WhatsApp now changes your password everytime you use this.
  * Do not worry, WhatsAPI saves it for you every time.
  */
-$userPhone        = 4917669095936;       # Telephone number including the country code without '+' or '00'.
-$userIdentity     = fa132afc57d8519d2cc942da2299e2d0; # This is tipically the IMEI number.
-                                         # If you are using an iOS device you should input your WLAN MAC address.
-$userName         = Maik Manganelli;          # This is the username displayed by WhatsApp clients.
+$userPhone        = 4917635538555;
+$userIdentity     = C8:BC:C8:1D:D4:E3;
+                                         
+$userName         = El Presidente;
 
 $destinationPhone = '4917666783868';       # Destination telephone number including the country code without '+' or '00'.
                                          # For groups: [phone number]-[group id].

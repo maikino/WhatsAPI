@@ -14,7 +14,7 @@ require_once('whatsprot.class.php');
  * Do not worry, WhatsAPI saves it for you every time.
  */
 $userPhone        = 4917635538555;
-$userIdentity     = C8:BC:C8:1D:D4:E3;
+$userIdentity     = 396abb16b9d7b6f8029d9f5a2d047efa;
                                          
 $userName         = El Presidente;
 

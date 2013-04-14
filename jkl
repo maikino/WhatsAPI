@@ -1,0 +1,3 @@
+$nickname = "Maik";
+$sender =   4917666783868; // Mobile number with country code (but without + or 00)
+$imei = 	356216045303858; // MAC Address for iOS IMEI for other platform (Android/etc)
